@@ -26,8 +26,8 @@
                         <li class="nav-item"><a class="nav-link text-light" href="song1.php">Easy On Me</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song2.php">Make it Real</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song3.php">Nobela</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song_4</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song_5</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song4.php">Marry me, Marry you</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song5.php">Ngiti</a></li>
                     </ul>
                 </div>
             </div>

@@ -36,8 +36,8 @@
         <header class="bg-dark bg-gradient text-white">
             
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Make it Real</h1>
-                <p class="lead">Song Composer: The gets</p>
+                <h1 class="fw-bolder">Ngiti</h1>
+                <p class="lead">Song Composer: Ronnie Liang</p>
                 
             </div>
         
@@ -56,52 +56,53 @@
                         echo "<h2 class='text-white'>'LYRICS'</h2>";  
                         echo "<br/>";
 
-
-                        echo "<p class='small'>[Intro]</p>";
-                        echo "<p>A--AM9--D--A-- (2x) </p>";
-                        echo "<p> Tonight it's been a year </p>";
-                        echo "<p> We met each other here </p>";
-                        echo "<p>  Here I am all alone </p>";
-                        echo "<p> As thoughts of you go on </p>";
-                        echo "<br/>";
-
-                        echo "<p class='small'>[Refrain ]</p>";
-                        echo "<p>  Hear me cryin' out to you </p>";
-                        echo "<p> You said, Never, never would I leave </p>";
-                        echo "<p> Here's a tear from me to you </p>";
-                        echo "<p>  And maybe it will make you hear me </p>";
+                        echo "<p class='small'>[Verse ]</p>";
+                        echo "<p> G-Em-G-Em  </p>";
+                        echo "<p> Minamasdan Kita </p>";
+                        echo "<p> Nang hindi mo alam </p>";
+                        echo "<p> Pinapangarap kong ikaw ay akin </p>";
+                        echo "<p> Mapupulang labi at Matingkad mong ngiti </p>";
+                        echo "<p> Umaabot hanggang sa langit </p>";
+                        echo "<p> Huwag ka lang titingin sa akin at baka matunaw ang puso kong sabik.</p>";
                         echo "<br/>";
 
                         echo "<p class='small'>[Chorus]</p>";
-                        echo "<p> I loved you </p>";
-                        echo "<p> You didn't feel the same </p>";
-                        echo "<p> Though we're apart, you're in my heart </p>";
-                        echo "<p> Give me one more chance to make it real </p>";
-                        echo "<p> A--AM9--D--A </p>"; 
-                        echo "<p> In a dream you are here </p>";
-                        echo "<p> You smile and hold are here </p>";
-                        echo "<p> And in my heart I'll pretend </p>";
-                        echo "<p> That you are here again </p>";
+                        echo "<p>  Sa iyong ngiti ako’y nahuhumaling </p>";
+                        echo "<p> At sa tuwing ikaw ay gagalaw </p>";
+                        echo "<p> Ang Mundo ko’y tumitigil </p>";
+                        echo "<p>  Para lang sa iyo ang awit ng aking puso </p>";
+                        echo "<p>  Sana’y mapansin mo rin ang lihim kong pagtingin. </p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Refrain ]</p>";
-                        echo "<p>  Hear me cryin' out to you </p>";
-                        echo "<p> You said, Never, never would I leave </p>";
-                        echo "<p> Here's a tear from me to you </p>";
-                        echo "<p>  And maybe it will make you hear me </p>";
+                        echo "<p class='small'>[Verse]</p>";
+                        echo "<p> Minamahal kita ng di mo alam </p>";
+                        echo "<p> Huwag ka sanang magagalit </p>";
+                        echo "<p> Tinamaan yata talaga ang aking puso </p>";
+                        echo "<p> Na dati ay akala ko’y manhid. </p>";
+                        echo "<p> Hindi pa rin makalapit </p>"; 
+                        echo "<p> Inuunahan ng kaba sa aking dibdib </p>";
                         echo "<br/>";
 
                         echo "<p class='small'>[Chorus]</p>";
-                        echo "<p> I loved you </p>";
-                        echo "<p> You didn't feel the same </p>";
-                        echo "<p> Though we're apart, you're in my heart </p>";
-                        echo "<p> Give me one more chance to make it real </p>";
-                        echo "<p> A--AM9--D--A </p>"; 
-                        echo "<p> In a dream you are here </p>";
-                        echo "<p> You smile and hold are here </p>";
-                        echo "<p> And in my heart I'll pretend </p>";
-                        echo "<p> That you are here again </p>";
+                        echo "<p>  Sa iyong ngiti ako’y nahuhumaling </p>";
+                        echo "<p> At sa tuwing ikaw ay gagalaw </p>";
+                        echo "<p> Ang Mundo ko’y tumitigil </p>";
+                        echo "<p>  Para lang sa iyo ang awit ng aking puso </p>";
+                        echo "<p>  Sana’y mapansin mo rin ang lihim kong pagtingin. </p>";
                         echo "<br/>";
+
+                        echo "<p class='small'>[Chorus]</p>";
+                        echo "<p>  Sa iyong ngiti ako’y nahuhumaling </p>";
+                        echo "<p> At sa tuwing ikaw ay gagalaw </p>";
+                        echo "<p> Ang Mundo ko’y tumitigil </p>";
+                        echo "<p>  Para lang sa iyo ang awit ng aking puso </p>";
+                        echo "<p>  Sana’y mapansin mo rin ang lihim kong pagtingin. </p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Outro]</p>";
+                        echo "<p>  sa iyong ngiti… </p>";
+                        echo "<br/>";
+
 
 
 
