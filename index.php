@@ -42,9 +42,9 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">Song Title here</h2>
-                        <p class="lead">display the Composer here</p>
-                        <p>display the lyrics/chords here</p>
+                        <h2 class="text-primary">Easy On Me</h2>
+                        <p class="lead">Song Composer: Adele</p>
+                        <p>(C).. (Am).. (Em).. (F).. </p>
                     </div>
                 </div>
             </div>
