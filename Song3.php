@@ -58,49 +58,69 @@
 
 
                         echo "<p class='small'>[Intro]</p>";
-                        echo "<p>A--AM9--D--A-- (2x) </p>";
-                        echo "<p> Tonight it's been a year </p>";
-                        echo "<p> We met each other here </p>";
-                        echo "<p>  Here I am all alone </p>";
-                        echo "<p> As thoughts of you go on </p>";
+                        echo "<p> E  G#m (2x) </p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Refrain ]</p>";
-                        echo "<p>  Hear me cryin' out to you </p>";
-                        echo "<p> You said, Never, never would I leave </p>";
-                        echo "<p> Here's a tear from me to you </p>";
-                        echo "<p>  And maybe it will make you hear me </p>";
+                        echo "<p class='small'>[Verse I ]</p>";
+                        echo "<p> Ngumiti kahit na napipilitan </p>";
+                        echo "<p> kahit pa sinasadya </p>";
+                        echo "<p> mo akong masaktan paminsan-minsan </p>";
+                        echo "<p>  bawat sandali na lang </p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Chorus]</p>";
-                        echo "<p> I loved you </p>";
-                        echo "<p> You didn't feel the same </p>";
-                        echo "<p> Though we're apart, you're in my heart </p>";
-                        echo "<p> Give me one more chance to make it real </p>";
-                        echo "<p> A--AM9--D--A </p>"; 
-                        echo "<p> In a dream you are here </p>";
-                        echo "<p> You smile and hold are here </p>";
-                        echo "<p> And in my heart I'll pretend </p>";
-                        echo "<p> That you are here again </p>";
+                        echo "<p class='small'>[Verse II]</p>";
+                        echo "<p> tulad mo ba akong nahihirapan </p>";
+                        echo "<p> lalot naiisip ka </p>";
+                        echo "<p> hindi ko na kaya pa na kalimutan </p>";
+                        echo "<p> bawat sandali na lang </p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Refrain ]</p>";
-                        echo "<p>  Hear me cryin' out to you </p>";
-                        echo "<p> You said, Never, never would I leave </p>";
-                        echo "<p> Here's a tear from me to you </p>";
-                        echo "<p>  And maybe it will make you hear me </p>";
+                        echo "<p class='small'>[Chorus ]</p>";
+                        echo "<p>  at aalis magbabalik </p>";
+                        echo "<p> at uuliting sabihin </p>";
+                        echo "<p> na mahalin kat sambitin </p>";
+                        echo "<p>  kahit muling masaktan </p>";
+                        echo "<p>  sa pag alis akoy magbabalik </p>";
+                        echo "<p>  at sana naman </p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Chorus]</p>";
-                        echo "<p> I loved you </p>";
-                        echo "<p> You didn't feel the same </p>";
-                        echo "<p> Though we're apart, you're in my heart </p>";
-                        echo "<p> Give me one more chance to make it real </p>";
-                        echo "<p> A--AM9--D--A </p>"; 
-                        echo "<p> In a dream you are here </p>";
-                        echo "<p> You smile and hold are here </p>";
-                        echo "<p> And in my heart I'll pretend </p>";
-                        echo "<p> That you are here again </p>";
+                        echo "<p class='small'>[Verse III]</p>";
+                        echo "<p> sumabay sa biglang pagkabahalat </p>";
+                        echo "<p> lumabis ang pagtataka </p>";
+                        echo "<p> tunay na pagsintang di alintana </p>";
+                        echo "<p> bawat sandali na lang </p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Verse IV]</p>";
+                        echo "<p> sa isang marikit na alaalay </p>";
+                        echo "<p> pangitaing kay ganda </p>";
+                        echo "<p> sana ngay pagbigyan na ng tadhana </p>";
+                        echo "<p> bawat sandali na lang </p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Chorus ]</p>";
+                        echo "<p>  at aalis magbabalik </p>";
+                        echo "<p> at uuliting sabihin </p>";
+                        echo "<p> na mahalin kat sambitin </p>";
+                        echo "<p>  kahit muling masaktan </p>";
+                        echo "<p>  sa pag alis akoy magbabalik </p>";
+                        echo "<p>  at sana naman </p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Bridge ]</p>";
+                        echo "<p>  ngumiti kahit na napipilitan </p>";
+                        echo "<p> kahit pa sinasadya </p>";
+                        echo "<p> mo akong masaktan paminsan-minsan </p>";
+                        echo "<p>  bawat sandali na lang </p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Chorus ]</p>";
+                        echo "<p>  at aalis magbabalik </p>";
+                        echo "<p> at uuliting sabihin </p>";
+                        echo "<p> na mahalin kat sambitin </p>";
+                        echo "<p>  kahit muling masaktan </p>";
+                        echo "<p>  sa pag alis akoy magbabalik </p>";
+                        echo "<p>  at sana naman </p>";
                         echo "<br/>";
 
 

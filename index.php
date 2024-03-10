@@ -22,7 +22,7 @@
                         <li class="nav-item"><a class="nav-link text-light" href="song1.php">Easy On Me</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song2.php">Make it Real</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song3.php">Nobela</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song_4</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song4.php">Marry me, Marry you</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song_5</a></li>
                     </ul>
                 </div>
@@ -57,8 +57,15 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         <h2 class="text-primary">Nobela</h2>
-                        <p class="lead">Song Composer: The gets</p>
-                        <p> Song Composer: Join the Club </p>
+                        <p class="lead">Song Composer: Join the Club </p>
+                        <p> E  G#m (2x)</p>
+                    </div>
+                </div><br>
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="text-primary">Marry me, Marry you</h2>
+                        <p class="lead">Song Composer: Darren Espanto</p>
+                        <p>  |Am |G |Em |Am  </p>
                     </div>
                 </div>
             </div>
