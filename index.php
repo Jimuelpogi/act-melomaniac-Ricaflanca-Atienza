@@ -19,8 +19,8 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="index.php">HOME</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song_1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Song_2</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">Easy On Me</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Make it Real</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song3.php">Song_3</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song_4</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song_5</a></li>
@@ -40,11 +40,18 @@
         <!-- About section-->
         <section id="songs">
             <div class="container px-4 ">
-                <div class="row gx-4 justify-content-center">
+            <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         <h2 class="text-primary">Easy On Me</h2>
                         <p class="lead">Song Composer: Adele</p>
-                        <p>(C).. (Am).. (Em).. (F).. </p>
+                        <p>(C).. (Am).. (Em).. (F)..</p>
+                    </div>
+                </div><br>
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="text-primary">Make it Real</h2>
+                        <p class="lead">Song Composer: The gets</p>
+                        <p>A--AM9--D--A-- (2x)</p>
                     </div>
                 </div>
             </div>
