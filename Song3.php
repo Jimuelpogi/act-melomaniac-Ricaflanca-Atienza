@@ -36,8 +36,8 @@
         <header class="bg-dark bg-gradient text-white">
             
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Make it Real</h1>
-                <p class="lead">Song Composer: The gets</p>
+                <h1 class="fw-bolder">Nobela</h1>
+                <p class="lead">Song Composer: Join the Club</p>
                 
             </div>
         
